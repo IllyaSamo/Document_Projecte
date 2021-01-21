@@ -1,0 +1,17 @@
+#img_casos{
+    width: 60%;
+    height: 60%;
+    align-self: center;
+}
+.card-img-top {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+    /*width: 700px;
+    height: 200px;
+    position: relative;
+    top: 0px;
+    left: 25%;*/
+}
+
